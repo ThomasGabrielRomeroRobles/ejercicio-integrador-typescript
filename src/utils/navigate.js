@@ -1,0 +1,4 @@
+export function navigateTo(path) {
+    window.location.href = path;
+}
+//# sourceMappingURL=navigate.js.map
